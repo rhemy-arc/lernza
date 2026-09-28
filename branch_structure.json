@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/suspend-resume-auth-order",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/suspend-resume-auth-order": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/suspend-resume-auth-order",
+    "origin"
+  ]
+}
